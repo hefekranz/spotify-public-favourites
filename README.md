@@ -1,5 +1,7 @@
 # Spotify Public Favourites
 
+https://community.spotify.com/t5/Live-Ideas/Make-quot-Liked-Songs-quot-playlist-shareable/idi-p/4872982
+
 Since this is still not possible, here is a script to publish your spotify favourites via a public playlist.
 
 ## !!! Use at your own risk!
