@@ -10,7 +10,7 @@ Since this is still not possible, here is a script to publish your spotify favou
 
 ## Steps
 
-- nodejs > 14
+- nodejs >= 14
 - Go to https://developer.spotify.com/dashboard and create an oauth application
 - copy .env-default to .env and set your oauth configs there
 - `npm install`
